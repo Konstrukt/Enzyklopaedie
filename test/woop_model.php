@@ -1,0 +1,1 @@
+<?php class woop extends CI_Model{}

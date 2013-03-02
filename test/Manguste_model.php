@@ -1,0 +1,1 @@
+<?php class Manguste extends CI_Model{}

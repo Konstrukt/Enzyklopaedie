@@ -1,0 +1,1 @@
+<?php class Anni extends CI_Model{}
