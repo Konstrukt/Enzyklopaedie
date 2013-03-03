@@ -1,1 +1,0 @@
-<?php class Anni extends CI_Controller{function index(){$data["container"] = $this->load->view("container");$this->load->view("Anni_view",$data);}}

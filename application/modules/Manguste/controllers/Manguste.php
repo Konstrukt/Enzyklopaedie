@@ -1,1 +1,0 @@
-<?php class Manguste extends CI_Controller{function index(){$data["container"] = $this->load->view("container");$this->load->view("Manguste_view",$data);}}

@@ -1,1 +1,0 @@
-<?php class woop extends CI_Controller{function index(){$data["container"] = $this->load->view("container");$this->load->view("woop_view",$data);}}
